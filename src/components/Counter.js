@@ -13,7 +13,6 @@ const Counter = () => {
 
     console.log("Counter component re-render")
 
-    const increment
 
     const user = useMemo(() => {
         return{
